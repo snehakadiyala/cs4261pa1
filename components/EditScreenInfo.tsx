@@ -6,6 +6,7 @@ import Colors from '../constants/Colors';
 import { MonoText } from './StyledText';
 import { Text, View } from './Themed';
 
+//Not super familiar with react so it was really cool to learn about that!!!
 export default function EditScreenInfo({ path, text, highcontrast }: { path: string, text: string, highcontrast: boolean }) {
   
   return (
